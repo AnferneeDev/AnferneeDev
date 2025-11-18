@@ -44,31 +44,7 @@ A distraction-free YouTube content consumption platform.
 * Ensured application reliability with **Vitest** for comprehensive testing  
 * **Tech:** Next.js, React, Sentry, Upstash, Vercel, Vitest  
 * [**Live Demo**](https://clear-feed.vercel.app/) | [**View on GitHub**](https://github.com/AnferneeDev/Clear_Feed)
-
----
-
-### 1. Clarity
-A comprehensive productivity desktop application to track habits and boost focus.
-
-* Built a full-featured, cross-platform desktop app using **Electron**  
-* Architected the backend logic with **Node.js** and managed local data storage with **SQLite**  
-* Features time-tracking with detailed statistics, an integrated note-taking system, and a to-do list  
-* Designed for seamless background operation with minimal RAM consumption  
-* **Tech:** Electron, TypeScript, React, Node.js, SQLite  
-* [**Download Here**](https://github.com/AnferneeDev/Clarity/releases/) | [**View on GitHub**](https://github.com/AnferneeDev/Clarity/)
-
----
-
-### 2. Clear Feed
-A distraction-free YouTube content consumption platform.
-
-* Developed a web app that removes YouTube's recommendation algorithm and clickbait to help users focus  
-* Built with **Next.js** and **React** for a clean UI/UX  
-* Integrated **Sentry** for error tracking, **Upstash** for caching, and deployed on **Vercel**  
-* Ensured application reliability with **Vitest** for comprehensive testing  
-* **Tech:** Next.js, React, Sentry, Upstash, Vercel, Vitest  
-* [**Live Demo**](https://clear-feed.vercel.app/) | [**View on GitHub**](https://github.com/AnferneeDev/Clear_Feed)
-
+  
 ---
 
 ### 3. Local Link
