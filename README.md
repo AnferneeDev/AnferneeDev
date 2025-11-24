@@ -23,15 +23,16 @@ I build things with a focus on clean code and efficient design.
 
 Here are a couple of projects I've built:
 
-### 1. Clarity
-A comprehensive productivity desktop application to track habits and boost focus.
+### 1. OfflineRates
+An offline-first mobile app for browsing hospital service prices.
 
-* Built a full-featured, cross-platform desktop app using **Electron**  
-* Architected the backend logic with **Node.js** and managed local data storage with **SQLite**  
-* Features time-tracking with detailed statistics, an integrated note-taking system, and a to-do list  
-* Designed for seamless background operation with minimal RAM consumption  
-* **Tech:** Electron, TypeScript, React, Node.js, SQLite  
-* [**Download Here**](https://github.com/AnferneeDev/Clarity/releases/) | [**View on GitHub**](https://github.com/AnferneeDev/Clarity/)
+* Developed with **React Native (Expo)** for cross-platform iOS/Android support  
+* Implements offline-first architecture with local **SQLite** storage  
+* Syncs seamlessly with a remote **Supabase** backend when online  
+* Provides dual roles: public “Guest” browsing and secure “Admin” dashboard with CRUD operations  
+* Features dynamic search, multi-category filtering, and fast client-side performance  
+* **Tech:** React Native, Expo, Supabase, SQLite, NativeWind, TypeScript  
+* [**View on GitHub**](https://github.com/AnferneeDev/OfflineRates)
 
 ---
 
@@ -54,22 +55,21 @@ A desktop utility for private, local file and text sharing.
 * Hosts a self-contained **Express.js** server for local network transfers  
 * Enables instant mobile connection via **QR code** scanning  
 * Supports drag & drop uploads, real-time sharing with **Socket.io**, and text/link broadcasting  
-* Designed for speed and zero dependency on internet or cloud services  
+* Designed for speed and zero dependency on the internet or cloud services  
 * **Tech:** Electron, React, shadcn/ui, Tailwind CSS, Express.js, Socket.io, Multer, TypeScript, Vite  
 * [**Download Here**](https://github.com/AnferneeDev/Local-Link/releases/) | [**View on GitHub**](https://github.com/AnferneeDev/Local-Link)
 
 ---
 
-### 4. OfflineRates
-An offline-first mobile app for browsing hospital service prices.
+### 4. Clarity
+A comprehensive productivity desktop application to track habits and boost focus.
 
-* Developed with **React Native (Expo)** for cross-platform iOS/Android support  
-* Implements offline-first architecture with local **SQLite** storage  
-* Syncs seamlessly with a remote **Supabase** backend when online  
-* Provides dual roles: public “Guest” browsing and secure “Admin” dashboard with CRUD operations  
-* Features dynamic search, multi-category filtering, and fast client-side performance  
-* **Tech:** React Native, Expo, Supabase, SQLite, NativeWind, TypeScript  
-* [**View on GitHub**](https://github.com/AnferneeDev/OfflineRates)
+* Built a full-featured, cross-platform desktop app using **Electron**  
+* Architected the backend logic with **Node.js** and managed local data storage with **SQLite**  
+* Features time-tracking with detailed statistics, an integrated note-taking system, and a to-do list  
+* Designed for seamless background operation with minimal RAM consumption  
+* **Tech:** Electron, TypeScript, React, Node.js, SQLite  
+* [**Download Here**](https://github.com/AnferneeDev/Clarity/releases/) | [**View on GitHub**](https://github.com/AnferneeDev/Clarity/)
 
 ---
 
