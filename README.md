@@ -23,20 +23,7 @@ I build things with a focus on clean code and efficient design.
 
 Here are a couple of projects I've built:
 
-### 1. OfflineRates
-An offline-first mobile app for browsing hospital service prices.
-
-* Developed with **React Native (Expo)** for cross-platform iOS/Android support  
-* Implements offline-first architecture with local **SQLite** storage  
-* Syncs seamlessly with a remote **Supabase** backend when online  
-* Provides dual roles: public “Guest” browsing and secure “Admin” dashboard with CRUD operations  
-* Features dynamic search, multi-category filtering, and fast client-side performance  
-* **Tech:** React Native, Expo, Supabase, SQLite, NativeWind, TypeScript  
-* [**View on GitHub**](https://github.com/AnferneeDev/OfflineRates)
-
----
-
-### 2. Clear Feed
+### 1. Clear Feed
 A distraction-free YouTube content consumption platform.
 
 * Developed a web app that removes YouTube's recommendation algorithm and clickbait to help users focus  
@@ -48,7 +35,7 @@ A distraction-free YouTube content consumption platform.
   
 ---
 
-### 3. Local Link
+### 2. Local Link
 A desktop utility for private, local file and text sharing.
 
 * Built a cross-platform **Electron** app with a bilingual UI (English/Spanish)  
@@ -61,7 +48,7 @@ A desktop utility for private, local file and text sharing.
 
 ---
 
-### 4. Clarity
+### 3. Clarity
 A comprehensive productivity desktop application to track habits and boost focus.
 
 * Built a full-featured, cross-platform desktop app using **Electron**  
